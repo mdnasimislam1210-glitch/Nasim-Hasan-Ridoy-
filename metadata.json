@@ -1,0 +1,6 @@
+{
+  "name": "DragonBlitz",
+  "description": "An addictive Match-3 puzzle game featuring adorable fantasy creatures with high-contrast luxury dark fantasy UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

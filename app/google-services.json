@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262321826766",
+    "project_id": "dragonblitz-c5f48",
+    "storage_bucket": "dragonblitz-c5f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262321826766:android:e6db94cb31bce195ad199f",
+        "android_client_info": {
+          "package_name": "com.dragonblitz.nasim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
